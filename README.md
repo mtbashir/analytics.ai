@@ -6,9 +6,10 @@ Idea in a Nutshell
 ## Summary 
 Analytics.AI is an AI-driven retail analytics platform that transforms fragmented e-POS data from multiple retailers into standardized, actionable insights. 
 
+# Background
+
 By automating ETL (Extract, Transform, Load) processes and applying machine learning, we help FMCG (Fast-Moving Consumer Goods) brands identify sales trends, market gaps, and growth opportunities in real time.
 
-# Background
 # Problem:
 
 Retailers provide sales data in inconsistent formats (e.g., varying SKU codes, hierarchies, and metrics), making it difficult for brands to aggregate and analyze performance holistically.
