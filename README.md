@@ -3,7 +3,10 @@ Building AI - Course Project
 
 Analytics.AI – Retail Intelligence, Simplified
 Idea in a Nutshell
-Analytics.AI is an AI-driven retail analytics platform that transforms fragmented e-POS (electronic point-of-sale) data from multiple retailers into standardized, actionable insights. By automating ETL (Extract, Transform, Load) processes and applying machine learning, we help FMCG (Fast-Moving Consumer Goods) brands identify sales trends, market gaps, and growth opportunities in real time.
+## Summary 
+Analytics.AI is an AI-driven retail analytics platform that transforms fragmented e-POS data from multiple retailers into standardized, actionable insights. 
+
+By automating ETL (Extract, Transform, Load) processes and applying machine learning, we help FMCG (Fast-Moving Consumer Goods) brands identify sales trends, market gaps, and growth opportunities in real time.
 
 # Background
 # Problem:
